@@ -1,0 +1,14 @@
+class P3 
+{
+	public static void main(String[] args) {
+		// nested if statement
+		int test=25;
+		if (test==25){
+			if (test<100){
+			System.out.println(test+" is Equal to 50 & Smaller than 100");
+			}
+			}
+		
+		}
+}
+

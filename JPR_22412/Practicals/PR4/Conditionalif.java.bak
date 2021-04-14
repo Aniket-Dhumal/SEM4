@@ -1,0 +1,10 @@
+class Conditionalif 
+{
+	public static void main(String[] args) 
+	{
+	   int num =5;
+	   String result =(num>0)?"Positive Number":"Negative Number";
+	   System.out.println(result);
+		
+	}
+}
